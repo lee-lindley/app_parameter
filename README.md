@@ -5,7 +5,7 @@ An Oracle PL/SQL Application Parameter Module
 *App_Parameter* is part of [plsql_utilities](https://github.com/lee-lindley/plsql_utilities).
 You can install it with or without the other utilities. Either clone the repository
 or download the zip 
-archive (([plsql_utilities.zip](https://github.com/lee-lindley/plsql_utilities/archive/refs/heads/main.zip)).
+archive ([plsql_utilities.zip](https://github.com/lee-lindley/plsql_utilities/archive/refs/heads/main.zip)).
 
 ## Description
 
